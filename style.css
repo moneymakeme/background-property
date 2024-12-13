@@ -1,0 +1,14 @@
+body{
+    background-image: url(images/ATNO\ Logo.png);/* this use image on background*/
+    background-repeat:no-repeat;/* this use image on background no repeat mode*/
+    background-position: center center;/* this use image on background default position is left top but
+     i need my image on center in middle position so i am use this center center*/
+    text-transform: capitalize;   /*this capitalize use on just our every words start
+     on capital letters so this used on that purpose*/
+}
+h1{
+    color: palegreen;/* this use our heading color 
+    changed your favorite color not use defalut color on black */
+    text-align: center;/* Text defalutly align on left top but 
+    i'm use our text on center line */
+}
